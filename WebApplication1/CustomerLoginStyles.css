@@ -1,0 +1,93 @@
+﻿/* General Body Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+/* Title Styling */
+h2 {
+    font-size: 32px;
+    font-weight: 700;
+    color: #4CAF50;
+    margin-bottom: 30px;
+}
+
+/* Form Styling */
+form {
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+}
+
+/* Table Styling */
+table {
+    width: 100%;
+    margin: auto;
+}
+
+/* Label Styling */
+label {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 5px;
+    display: block;
+    text-align: left;
+}
+
+/* TextBox Styling */
+asp\:TextBox {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+}
+
+    asp\:TextBox:focus {
+        border-color: #4CAF50;
+        outline: none;
+    }
+
+/* Button Styling */
+asp\:Button {
+    display: inline-block;
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 30px;
+    font-size: 18px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+    asp\:Button:hover {
+        background-color: #45a049;
+        transform: scale(1.05);
+    }
+
+    asp\:Button:focus {
+        outline: none;
+    }
+
+/* Error Message Styling */
+asp\:Label {
+    font-size: 14px;
+    margin-top: 10px;
+    font-weight: bold;
+}

@@ -1,0 +1,115 @@
+﻿/* General Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Header Styling */
+h2 {
+    text-align: center;
+    color: #4CAF50;
+    margin-top: 20px;
+}
+
+/* Form Container */
+form {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Buttons */
+asp\:button {
+    display: inline-block;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px 0;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+}
+
+    asp\:button:hover {
+        background-color: #45a049;
+    }
+
+/* Textboxes */
+asp\:textbox {
+    width: calc(100% - 22px);
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+/* Labels */
+asp\:label {
+    display: block;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+/* GridView Tables */
+asp\:gridview {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+    asp\:gridview th,
+    asp\:gridview td {
+        padding: 12px 15px;
+        border: 1px solid #ddd;
+        text-align: left;
+        font-size: 14px;
+    }
+
+    asp\:gridview th {
+        background-color: #4CAF50;
+        color: #fff;
+        text-transform: uppercase;
+    }
+
+    asp\:gridview tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+    asp\:gridview tr:hover {
+        background-color: #f1f1f1;
+    }
+
+/* Logout Button */
+#Button1 {
+    display: block;
+    width: 100%;
+    max-width: 200px;
+    margin: 20px auto;
+    background-color: #e74c3c;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+}
+
+    #Button1:hover {
+        background-color: #c0392b;
+    }

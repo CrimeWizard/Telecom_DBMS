@@ -1,0 +1,73 @@
+﻿/* General Body Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+/* Header Styling */
+h1 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #4CAF50;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+/* Button Container */
+div {
+    text-align: center;
+}
+
+/* Buttons */
+asp\:button {
+    display: inline-block;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 18px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+    asp\:button:hover {
+        background-color: #45a049;
+        transform: scale(1.05);
+    }
+
+    asp\:button:focus {
+        outline: none;
+    }
+
+    /* Additional Styling for Buttons */
+    asp\:button#btnAdmin {
+        background-color: #007bff;
+    }
+
+        asp\:button#btnAdmin:hover {
+            background-color: #0056b3;
+        }
+
+    asp\:button#btnCustomer {
+        background-color: #ff9800;
+    }
+
+        asp\:button#btnCustomer:hover {
+            background-color: #f57c00;
+        }
+
+/* Apply additional spacing to buttons for better appearance */
+asp\:button {
+    margin-top: 20px;
+}

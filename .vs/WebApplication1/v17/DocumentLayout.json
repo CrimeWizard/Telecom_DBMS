@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAE316A-BF29-4383-8CC1-329C924FF14C}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\source\\repos\\webapplication1\\webapplication1\\customerdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAE316A-BF29-4383-8CC1-329C924FF14C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\customerdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAE316A-BF29-4383-8CC1-329C924FF14C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication1\\customerdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3AAE316A-BF29-4383-8CC1-329C924FF14C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\customerdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAE316A-BF29-4383-8CC1-329C924FF14C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication1\\customerdashboardstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3AAE316A-BF29-4383-8CC1-329C924FF14C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\customerdashboardstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAE316A-BF29-4383-8CC1-329C924FF14C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication1\\customerlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3AAE316A-BF29-4383-8CC1-329C924FF14C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\customerlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAE316A-BF29-4383-8CC1-329C924FF14C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication1\\customerloginstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3AAE316A-BF29-4383-8CC1-329C924FF14C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\customerloginstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAE316A-BF29-4383-8CC1-329C924FF14C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication1\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3AAE316A-BF29-4383-8CC1-329C924FF14C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAE316A-BF29-4383-8CC1-329C924FF14C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication1\\adminloginstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3AAE316A-BF29-4383-8CC1-329C924FF14C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\adminloginstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAE316A-BF29-4383-8CC1-329C924FF14C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication1\\admincustomerstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3AAE316A-BF29-4383-8CC1-329C924FF14C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\admincustomerstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAE316A-BF29-4383-8CC1-329C924FF14C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\DELL\\source\\repos\\WebApplication1\\webapplication1\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAE316A-BF29-4383-8CC1-329C924FF14C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\source\\repos\\WebApplication1\\uniSQLquery.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uniSQLquery.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerDashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\CustomerDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\CustomerDashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\CustomerDashboard.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\CustomerDashboard.aspx.cs",
+              "ViewState": "AgIAAKwBAAAAAAAAAAAqwPcBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:02:10.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerDashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\CustomerDashboard.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\CustomerDashboard.aspx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\CustomerDashboard.aspx",
+              "RelativeToolTip": "WebApplication1\\CustomerDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-06T12:50:39.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDashboardStyles.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\CustomerDashboardStyles.css",
+              "RelativeDocumentMoniker": "WebApplication1\\CustomerDashboardStyles.css",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\CustomerDashboardStyles.css",
+              "RelativeToolTip": "WebApplication1\\CustomerDashboardStyles.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-06T12:48:22.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminLoginStyles.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\AdminLoginStyles.css",
+              "RelativeDocumentMoniker": "WebApplication1\\AdminLoginStyles.css",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\AdminLoginStyles.css",
+              "RelativeToolTip": "WebApplication1\\AdminLoginStyles.css",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-06T12:46:30.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerLogin.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\CustomerLogin.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\CustomerLogin.aspx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\CustomerLogin.aspx",
+              "RelativeToolTip": "WebApplication1\\CustomerLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-06T12:47:31.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerLoginStyles.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\CustomerLoginStyles.css",
+              "RelativeDocumentMoniker": "WebApplication1\\CustomerLoginStyles.css",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\CustomerLoginStyles.css",
+              "RelativeToolTip": "WebApplication1\\CustomerLoginStyles.css",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-06T12:48:03.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminLogin.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\AdminLogin.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\AdminLogin.aspx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\AdminLogin.aspx",
+              "RelativeToolTip": "WebApplication1\\AdminLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-06T12:45:30.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminCustomerStyles.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\AdminCustomerStyles.css",
+              "RelativeDocumentMoniker": "WebApplication1\\AdminCustomerStyles.css",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\AdminCustomerStyles.css",
+              "RelativeToolTip": "WebApplication1\\AdminCustomerStyles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-06T12:44:00.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminDashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\AdminDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\AdminDashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\AdminDashboard.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\AdminDashboard.aspx.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAqwLQBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:09:37.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "uniSQLquery.sql",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\uniSQLquery.sql",
+              "RelativeDocumentMoniker": "uniSQLquery.sql",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\uniSQLquery.sql",
+              "RelativeToolTip": "uniSQLquery.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-06T00:00:23.39Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
